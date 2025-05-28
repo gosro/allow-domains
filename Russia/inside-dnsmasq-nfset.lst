@@ -897,3 +897,4 @@ nftset=/googlehosted.l.googleusercontent.com/4#inet#fw4#vpn_domains
 nftset=/lh3.googleusercontent.com/4#inet#fw4#vpn_domains
 nftset=/www.googletagmanager.com/4#inet#fw4#vpn_domains
 nftset=/clients6.google.com/4#inet#fw4#vpn_domains
+nftset=/bestchange.com/4#inet#fw4#vpn_domains
